@@ -1,6 +1,6 @@
 {
   "name": "@thelak/videojs-resolution-switcher-v7",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "xiaoyexiang videojs@7 videojs-resolution-switcher",
   "main": "./lib/videojs-resolution-switcher-v7.js",
   "directories": {
