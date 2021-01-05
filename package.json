@@ -1,7 +1,7 @@
 {
-  "name": "@xiaoyexiang/videojs-resolution-switcher-v7",
-  "version": "1.1.9",
-  "description": "videojs@7 videojs-resolution-switcher 切换清晰度",
+  "name": "videojs-resolution-switcher-v7",
+  "version": "1.2.0",
+  "description": "videojs@7 videojs-resolution-switcher",
   "main": "./lib/videojs-resolution-switcher-v7.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,9 +17,16 @@
     "videojs-plugin"
   ],
   "author": "xiaoyexiang",
+  "contributors": [
+    {
+      "name": "thelak",
+      "email": "thelak.service@gmail.com",
+      "url": "https://thelak.com"
+    }
+  ],
   "license": "Apache-2.0",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/xiaoyexiang/videojs-resolution-switcher-v7.git"
+    "url" : "https://github.com/thelak/videojs-resolution-switcher-v7.git"
   }
 }
