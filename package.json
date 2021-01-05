@@ -1,10 +1,17 @@
 {
-  "name": "videojs-resolution-switcher-v7",
-  "version": "1.2.0",
-  "description": "videojs@7 videojs-resolution-switcher",
+  "name": "@thelak/videojs-resolution-switcher-v7",
+  "version": "1.0.0",
+  "description": "xiaoyexiang videojs@7 videojs-resolution-switcher",
   "main": "./lib/videojs-resolution-switcher-v7.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelak/videojs-resolution-switcher-v7.git"
   },
   "keywords": [
     "videojs",
@@ -16,17 +23,14 @@
     "source",
     "videojs-plugin"
   ],
-  "author": "xiaoyexiang",
+  "author": "thelak",
   "contributors": [
-    {
-      "name": "thelak",
-      "email": "thelak.service@gmail.com",
-      "url": "https://thelak.com"
-    }
+    "xiaoyexiang",
+    "thelak"
   ],
   "license": "Apache-2.0",
-  "repository": {
-    "type" : "git",
-    "url" : "https://github.com/thelak/videojs-resolution-switcher-v7.git"
-  }
+  "bugs": {
+    "url": "https://github.com/thelak/videojs-resolution-switcher-v7/issues"
+  },
+  "homepage": "https://github.com/thelak/videojs-resolution-switcher-v7#readme"
 }
